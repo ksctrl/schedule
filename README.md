@@ -1,10 +1,11 @@
 <html>
+  <head></head>
   <style>
       table {
         font size 12; margin 10; padding 10
         }
-      
-    </style>
+        </style>
+  </head>
   <body>
     <table> 
     <tr><td>>5:00 AM</td> <td>Wake up!</td></tr>
