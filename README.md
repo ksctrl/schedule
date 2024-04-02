@@ -1,10 +1,7 @@
 <html>
   <head> Schedule</head>
-  <table style>
-      table {
-        font size 12; margin 10; padding 10
-        }
-        </style>
+  <table style= font-size 12; margin 10; padding 10>
+        
   </head>
   <body>
     <table> 
