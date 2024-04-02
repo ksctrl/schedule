@@ -1,6 +1,6 @@
 <html>
-  <head></head>
-  <style>
+  <head> Schedule</head>
+  <table style>
       table {
         font size 12; margin 10; padding 10
         }
